@@ -17,7 +17,6 @@ LLM Integration: Uses LLMs to identify and summarize key findings.
 ## 🔧 Installation (Windows CMD)
 
 1. Clone the repository:
-
 <pre><code>
 ```cmd
 git clone https://github.com/hvrdhn/PDF-Extractor.git
