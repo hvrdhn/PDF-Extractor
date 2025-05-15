@@ -6,10 +6,26 @@ PDF Parsing: Extracts raw text from PDFs
 LLM Integration: Uses LLMs to identify and summarize key findings.
 
 ## Folder Structure
+<pre><code>''' 
 .
 ├── PDFextraction.ipynb     # Main notebook
 ├── sample_papers/          # (Optional) Sample research PDFs
 ├── outputs/                # (Optional) Extracted summaries
 └── README.md               # Project overview
+'''</code></pre>
 
+## 🔧 Installation (Windows CMD)
 
+1. Clone the repository:
+
+<pre><code>```cmd
+git clone https://github.com/hvrdhn/pdf-key-findings-extractor.git
+cd pdf-key-findings-extractor
+</code></pre></pre>
+
+2. Install Python Requirements
+<pre><code>```cmd
+  pip install -r requirements.txt
+</code></pre>
+
+3. For LLM you can use any open source API
