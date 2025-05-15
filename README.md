@@ -17,15 +17,13 @@ LLM Integration: Uses LLMs to identify and summarize key findings.
 ## 🔧 Installation (Windows CMD)
 
 1. Clone the repository:
-<pre><code>
-```cmd
+<pre><code>```cmd
 git clone https://github.com/hvrdhn/PDF-Extractor.git
 cd pdf-key-findings-extractor
 </code></pre></pre>
 
 2. Install Python Requirements
-<pre><code>
-```cmd
+<pre><code>```cmd
 pip install -r requirements.txt
 </code></pre>
 
